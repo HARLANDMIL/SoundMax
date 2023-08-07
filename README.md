@@ -2,7 +2,7 @@
 
 SoundMax is Web-based Music player.
 
-(![Designer](https://github.com/HARLANDMIL/SoundMax/assets/111132900/e3b2caae-9d57-4fb1-9df2-3c0b927889a9)
+![Designer](https://github.com/HARLANDMIL/SoundMax/assets/111132900/e3b2caae-9d57-4fb1-9df2-3c0b927889a9)
 
 
 
